@@ -15,4 +15,5 @@
 
 Email: evio@vip.qq.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cevio&hide=contribs,prs)
+![Evio's github stats](https://github-readme-stats.vercel.app/api?username=cevio&show_icons=true&langs_count=8&layout=compact)
+<!--![Evio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cevio)-->
