@@ -17,3 +17,4 @@ Email: evio@vip.qq.com
 
 ![Evio's github stats](https://github-readme-stats.vercel.app/api?username=cevio&show_icons=true&langs_count=8&layout=compact)
 <!--![Evio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cevio)-->
+[![Evio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
