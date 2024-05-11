@@ -2,7 +2,7 @@
 
 Email: evio@vip.qq.com
 
-12年前端开发经验，曾任51信用卡前端负责人，51信用卡nodejs布道者。[Miox](https://github.com/51nb/miox) 开源架构创始人，专注前端全栈领域。
+15年前端开发经验，曾任51信用卡前端负责人，51信用卡nodejs布道者。[Miox](https://github.com/51nb/miox) 开源架构创始人，专注前端全栈领域。
 
 [![Evio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
